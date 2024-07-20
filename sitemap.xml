@@ -76,6 +76,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://yyhmuke.com/doc/math/</loc>
+         <lastmod>2024-07-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://yyhmuke.com/topics/group-theory/</loc>
          <lastmod>2024-07-20</lastmod>
          <changefreq>daily</changefreq>
