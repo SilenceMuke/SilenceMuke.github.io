@@ -30,15 +30,15 @@ int main() {
     std::string replacement1 = R"($& id="index-toc")";
     std::string replacedContent = std::regex_replace(content, pattern1, replacement1);
     std::regex pattern2(R"(<div class=md-sidebar__scrollwrap>)");
-    std::string replacement2 = R"(<div itemscope="" itemtype="http://schema.org/Person" class="profile_box" style="display:none;padding-left: 1rem;padding-right: 1.1rem;"><div class="author__avatar"><img src="https://coderbak.com/document/avatar.jpeg" class="author__avatar"></div>
+    std::string replacement2 = R"(<div itemscope="" itemtype="http://schema.org/Person" class="profile_box" style="display:none;padding-left: 1rem;padding-right: 1.1rem;"><div class="author__avatar"><img src="/document/avatar.jpeg" class="author__avatar"></div>
   <div class="author__content">
-    <hr><h3 class="author__name" style="font-size: .9rem !important;">Haoxiang Sun</h3>
-    <p class="author__bio">Renmin University of China</p>
+    <hr><h3 class="author__name" style="font-size: .9rem !important;">Muke_慕可</h3>
+    <p class="author__bio">Nankai University</p>
   </div>
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons" style="">
-        <li><div style="white-space: normal; margin-bottom: 1.3em;">「我追着梦的光点。 」
+        <li><div style="white-space: normal; margin-bottom: 1.3em;">「11111111 」
         </div></li>
     </ul>
     <div style="display: flex; gap: 19px;">
