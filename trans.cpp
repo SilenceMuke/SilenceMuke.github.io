@@ -38,7 +38,7 @@ int main() {
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons" style="">
-        <li><div style="white-space: normal; margin-bottom: 1.3em;">「游荡的孤高灵魂不需要羁绊之地 」
+        <li><div style="white-space: normal; margin-bottom: 1.3em;">[游荡的孤高灵魂不需要羁绊之地]
         </div></li>
     </ul>
     <div style="display: flex; gap: 19px;">
